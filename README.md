@@ -14,4 +14,14 @@ If you want to run the code as is you need
 
 ### Run
 
-`manimgl schedule.py Schedule`
+```manimgl schedule.py Schedule```
+
+The output should produce something like that:
+
+![Still image of the output](assets/output/Schedule.png)
+
+[assets/output/Schedule.png](assets/output/Schedule.png)
+
+![Video of the output](assets/output/Schedule.mp4)
+
+[assets/output/Schedule.mp4](assets/output/Schedule.mp4)
