@@ -62,13 +62,16 @@ from manimlib import *
 
 
 
-  TODO: divide into different functions or different scenes
-      - Init: set image as background
-      - North: write title
-      - Main area: make & write actual schedule
-      - South: write link
-      ? wait
-      - Fade out
+    TODO: divide into different functions or different scenes
+        - Init: set image as background
+        - North: write title
+        - Main area: make & write actual schedule
+        - South: write link
+        ? wait
+        - Fade out
+
+    TODO: integrate json to parse schedule input
+    TODO: get json from a form on a webpage/applet
 '''
 
 
